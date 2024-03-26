@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [in progress](in progress)
 
-- 📫 How to reach me **remi.a.vidal@gmail.co**
+- 📫 How to reach me **remi.a.vidal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/remividal77/](https://www.linkedin.com/in/remividal77/)
 
