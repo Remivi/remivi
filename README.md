@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rémi</h1>
 <h3 align="center">A passionate data analyst from France</h3>
 
-- 🔭 I’m currently working on **for fun on a nba dataset**
+- 🔭 I’m currently working on **a Looker Studio dashboard for Tiller**
 
-- 👨‍💻 All of my projects are available at [in progress](in progress)
+- 👨‍💻 All of my projects are available at [https://troopl.com/remideladata](https://troopl.com/remideladata)
 
-- 📫 How to reach me **remi.a.vidal@gmail.co**
+- 📫 How to reach me **remi.a.vidal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/remividal77/](https://www.linkedin.com/in/remividal77/)
 
