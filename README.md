@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Looker Studio dashboard for Tiller**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/remideladata](https://troopl.com/remideladata)
+- 👨‍💻 All of my projects are available at [[https://troopl.com/remi_data_analyst](https://troopl.com/remi_data_analyst)
 
 - 📫 How to reach me **remi.a.vidal@gmail.com**
 
